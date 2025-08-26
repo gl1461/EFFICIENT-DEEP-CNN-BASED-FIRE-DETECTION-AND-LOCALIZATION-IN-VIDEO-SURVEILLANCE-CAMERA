@@ -1,6 +1,6 @@
 # EFFICIENT DEEP CNN-BASED FIRE DETECTION AND LOCALIZATION IN VIDEO SURVEILLANCE CAMERA
 
-![GitHub](https://img.shields.io/github/license/USERNAME/REPOSITORY)
+![GitHub]((https://github.com/gl1461/EFFICIENT-DEEP-CNN-BASED-FIRE-DETECTION-AND-LOCALIZATION-IN-VIDEO-SURVEILLANCE-CAMERA.git))
 ![GitHub last commit](https://img.shields.io/github/last-commit/USERNAME/REPOSITORY)
 
 ## Description
@@ -48,5 +48,4 @@ No external dependencies required.
 5. Push to the branch (`git push origin feature/`)
 6. Create a new Pull Request
 
-## License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
