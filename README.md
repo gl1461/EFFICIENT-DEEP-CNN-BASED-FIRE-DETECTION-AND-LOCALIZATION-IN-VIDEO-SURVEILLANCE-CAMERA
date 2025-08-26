@@ -1,7 +1,7 @@
 # EFFICIENT DEEP CNN-BASED FIRE DETECTION AND LOCALIZATION IN VIDEO SURVEILLANCE CAMERA
 
 ![GitHub]((https://github.com/gl1461/EFFICIENT-DEEP-CNN-BASED-FIRE-DETECTION-AND-LOCALIZATION-IN-VIDEO-SURVEILLANCE-CAMERA.git))
-![GitHub last commit](https://img.shields.io/github/last-commit/USERNAME/REPOSITORY)
+![GitHub last commit]((https://github.com/gl1461/EFFICIENT-DEEP-CNN-BASED-FIRE-DETECTION-AND-LOCALIZATION-IN-VIDEO-SURVEILLANCE-CAMERA.git))
 
 ## Description
 Efficient Deep CNN-based Fire Detection and Localization in Video Surveillance Camera is a real-time fire detection and localization system developed using deep convolutional neural networks (CNNs) for video surveillance cameras. The system harnesses the capabilities of CNNs to accurately detect and pinpoint fires in video feeds, facilitating prompt response and minimizing potential damage.
